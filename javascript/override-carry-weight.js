@@ -3,7 +3,7 @@ Hooks.once('init', () => {
         /**
          * Converter to handle lbs to kg conversion in the ActorSheet for characters
          */
-        libWrapper.register('fallout-es', 'game.fallout.FalloutActor.prototype._prepareCharacterData', function (wrapped, ...args) {
+        libWrapper.register('fallout-es', 'fallout.FalloutActor.prototype._prepareCharacterData', function (wrapped, ...args) {
             wrapped(...args);
 
             if (this.type !== 'character') {
@@ -23,7 +23,7 @@ Hooks.once('init', () => {
         /**
          * Converter to handle lbs to kg conversion in the ActorSheet for robots
          */
-        libWrapper.register('fallout-es', 'game.fallout.FalloutActor.prototype._prepareRobotData', function (wrapped, ...args) {
+        libWrapper.register('fallout-es', 'fallout.FalloutActor.prototype._prepareRobotData', function (wrapped, ...args) {
             wrapped(...args);
 
             if (this.type !== 'robot') {
