@@ -10,40 +10,40 @@
 			"id": "Athletics",
 			"name": "Atletismo",
 			"img": "modules/fallout-es/asset/Athletics.png",
-			"description": "<p>El atletismo determina tu capacidad para aplicar fuerza y ​​agilidad, conocer tus l&iacute;mites y concentrarte durante el esfuerzo f&iacute;sico.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Fuerza, pero puedes usar Agilidad, o Resistencia ante la adversidad f&iacute;sica. Utiliza el Atletismo para empujar, tirar o levantar un objeto, saltar, trepar, nadar o correr.</p>"
+			"description": "<p>El atletismo determina tu capacidad para aplicar fuerza y ​​agilidad, conocer tus límites y concentrarte durante el esfuerzo físico.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Fuerza, pero puedes usar Agilidad, o Resistencia ante la adversidad física. Utiliza el Atletismo para empujar, tirar o levantar un objeto, saltar, trepar, nadar o correr.</p>"
 		},
 		{
 			"id": "Barter",
 			"name": "Comercio",
 			"img": "modules/fallout-es/asset/Barter.png",
-			"description": "<p>El trueque representa tu talento con el dinero: ¿sabes c&oacute;mo administrar tu dinero? ¿Hacer buenos tratos? ¿Negociar una reducci&oacute;n de precio?</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Carisma, pero puedes usar la Percepci&oacute;n para determinar si tu interlocutor est&aacute; listo para cambiar de opini&oacute;n o la Inteligencia para estimar el valor real de un art&iacute;culo. Usa el Trueque para vender o comprar art&iacute;culos, o para negociar el precio de un art&iacute;culo.</p>"		},
+			"description": "<p>El trueque representa tu talento con el dinero: ¿sabes cómo administrar tu dinero? ¿Hacer buenos tratos? ¿Negociar una reducción de precio?</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Carisma, pero puedes usar la Percepción para determinar si tu interlocutor está listo para cambiar de opinión o la Inteligencia para estimar el valor real de un artículo. Usa el Trueque para vender o comprar artículos, o para negociar el precio de un artículo.</p>"		},
 		{
 			"id": "Big Guns",
 			"name": "Armas Grandes",
 			"img": "modules/fallout-es/asset/Big-Guns.png",
-			"description": "<p>La habilidad Armas pesadas representa tu entrenamiento con armas grandes, desde Fat Man hasta l&aacute;seres Gatling y todo lo dem&aacute;s.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Resistencia, pero puedes usar Fuerza si necesitas preparar un arma o Agilidad si la precisi&oacute;n se vuelve importante. Usa armas pesadas para empuñar armas como miniguns, lanzacohetes, Fat Mans y l&aacute;seres Gatling.</p>"
+			"description": "<p>La habilidad Armas pesadas representa tu entrenamiento con armas grandes, desde Fat Man hasta láseres Gatling y todo lo demás.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Resistencia, pero puedes usar Fuerza si necesitas preparar un arma o Agilidad si la precisión se vuelve importante. Usa armas pesadas para empuñar armas como miniguns, lanzacohetes, Fat Mans y láseres Gatling.</p>"
 		},
 		{
 			"id": "Energy Weapons",
 			"name": "Armas de energia",
 			"img": "modules/fallout-es/asset/Energy-Weapons.png",
-			"description": "<p>Armas de energ&iacute;a es la habilidad que usas cuando empuñas un arma de energ&iacute;a, como pistolas l&aacute;ser, pistolas de plasma, armas Gauss o cualquier otra arma que dispare un rayo de energ&iacute;a.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepci&oacute;n, pero puedes usar Inteligencia si est&aacute;s intentando modificar o reparar tu arma, Agilidad si est&aacute;s intentando desarmar una trampa que involucra un arma de energ&iacute;a para empuñar una pistola de energ&iacute;a, plasma. rifle, rifle gauss, transmisor de microondas o mosquete l&aacute;ser.</p>"
+			"description": "<p>Armas de energía es la habilidad que usas cuando empuñas un arma de energía, como pistolas láser, pistolas de plasma, armas Gauss o cualquier otra arma que dispare un rayo de energía.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepción, pero puedes usar Inteligencia si estás intentando modificar o reparar tu arma, Agilidad si estás intentando desarmar una trampa que involucra un arma de energía para empuñar una pistola de energía, plasma. rifle, rifle gauss, transmisor de microondas o mosquete láser.</p>"
 		},
 		{
 			"id": "Explosives",
 			"name": "Explosivos",
 			"img": "modules/fallout-es/asset/Explosives.png",
-			"description": "<p>Cuando lanzas explosivos, los colocas como una trampa o los detonas de forma remota, usas la habilidad Explosivos.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepci&oacute;n, pero puedes usarlo Fuerza para lanzar una granada lo m&aacute;s lejos posible o Agilidad para intentar acercarte lo m&aacute;s posible a una mina sin activarla. Usa Explosivos para usar minas o granadas de fragmentaci&oacute;n, c&oacute;cteles Molotov, granadas Nuka, granadas de plasma, granadas de pulso, minas o. dinamita.</p>"		},
+			"description": "<p>Cuando lanzas explosivos, los colocas como una trampa o los detonas de forma remota, usas la habilidad Explosivos.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepción, pero puedes usarlo Fuerza para lanzar una granada lo más lejos posible o Agilidad para intentar acercarte lo más posible a una mina sin activarla. Usa Explosivos para usar minas o granadas de fragmentación, cócteles Molotov, granadas Nuka, granadas de plasma, granadas de pulso, minas o. dinamita.</p>"		},
 		{
 			"id": "Lockpick",
 			"name": "Abrir Cerraduras",
 			"img": "modules/fallout-es/asset/Lockpick.png",
-			"description": "<p>La habilidad Abrir cerraduras refleja tu experiencia en la manipulaci&oacute;n de cerraduras para abrirlas sin llave.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepci&oacute;n, pero puedes usar Agilidad o Fuerza si Est&aacute;s intentando forzar la puerta sin dañar la cerradura. Usa Lockpick para abrir un cofre o una puerta cerrada.</p>"		},
+			"description": "<p>La habilidad Abrir cerraduras refleja tu experiencia en la manipulación de cerraduras para abrirlas sin llave.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepción, pero puedes usar Agilidad o Fuerza si Estás intentando forzar la puerta sin dañar la cerradura. Usa Lockpick para abrir un cofre o una puerta cerrada.</p>"		},
 		{
 			"id": "Medicine",
 			"name": "Medicina",
 			"img": "modules/fallout-es/asset/Medicine.png",
-			"description": "<p>La medicina es la habilidad que abarca el conocimiento y la aplicaci&oacute;n de estos &uacute;ltimos, vinculados a la medicina en general, desde los primeros auxilios hasta la farmacolog&iacute;a, pasando por la cirug&iacute;a y el tratamiento del 'intoxicaci&oacute;n por radiaci&oacute;n.</p> \n<p>Su atributo S.P.E.C.I.A.L predeterminado es Inteligencia, pero puedes usar Agilidad para operar o Carisma para aconsejar a un compañero. Usa Medicina para estabilizar a tus aliados en combate y curarlos.</p>"		},
+			"description": "<p>La medicina es la habilidad que abarca el conocimiento y la aplicación de estos últimos, vinculados a la medicina en general, desde los primeros auxilios hasta la farmacología, pasando por la cirugía y el tratamiento del 'intoxicación por radiación.</p> \n<p>Su atributo S.P.E.C.I.A.L predeterminado es Inteligencia, pero puedes usar Agilidad para operar o Carisma para aconsejar a un compañero. Usa Medicina para estabilizar a tus aliados en combate y curarlos.</p>"		},
 		{
 			"id": "Melee Weapons",
 			"name": "Armas Cuerpo a Cuerpo",
@@ -53,46 +53,46 @@
 			"id": "Pilot",
 			"name": "Pilotaje",
 			"img": "modules/fallout-es/asset/Pilot.png",
-			"description": "<p>Pilotar representa todas tus habilidades para conducir una variedad de veh&iacute;culos, desde buggies hasta motocicletas, pasando por vertiprones y tanques.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepci&oacute;n, pero puedes usar Fuerza para sujetar un buggy cuando patina, o Agilidad para aterrizar un vert&iacute;pero en una zona estrecha. Utiliza la Direcci&oacute;n para conducir un veh&iacute;culo terrestre o pilotar un veh&iacute;culo a&eacute;reo.</p>"		},
+			"description": "<p>Pilotar representa todas tus habilidades para conducir una variedad de vehículos, desde buggies hasta motocicletas, pasando por vertiprones y tanques.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Percepción, pero puedes usar Fuerza para sujetar un buggy cuando patina, o Agilidad para aterrizar un vertípero en una zona estrecha. Utiliza la Dirección para conducir un vehículo terrestre o pilotar un vehículo aéreo.</p>"		},
 		{
 			"id": "Repair",
-			"name": "Reparaci&oacute;n",
+			"name": "Reparación",
 			"img": "modules/fallout-es/asset/Repair.png",
-			"description": "<p>Construir y reparar objetos, ya sean armas o edificios, trampas simples o mecanismos complejos, depende de la habilidad Reparar.</p>\n<p> Su atributo S.P.E.C.I.A.L. predeterminado es Inteligencia, pero puedes usar Fuerza para hacer que la maquinaria pesada vuelva a funcionar o Percepci&oacute;n para intentar resolver el problema con un motor, fabricar elementos a partir de piezas de repuesto o construir defensas.</p>"		},
+			"description": "<p>Construir y reparar objetos, ya sean armas o edificios, trampas simples o mecanismos complejos, depende de la habilidad Reparar.</p>\n<p> Su atributo S.P.E.C.I.A.L. predeterminado es Inteligencia, pero puedes usar Fuerza para hacer que la maquinaria pesada vuelva a funcionar o Percepción para intentar resolver el problema con un motor, fabricar elementos a partir de piezas de repuesto o construir defensas.</p>"		},
 		{
 			"id": "Science",
 			"name": "Ciencia",
 			"img": "modules/fallout-es/asset/Science.png",
-			"description": "<p>La habilidad Ciencia cubre todo el conocimiento te&oacute;rico y pr&aacute;ctico, pero en Wastelands se usa principalmente para codificar computadoras, programar robots y preparar drogas.</p>\n<p >Su atributo S.P.E.C.I.A.L. predeterminado es Inteligencia, pero puedes usar la Percepci&oacute;n para estudiar un sujeto de prueba o el Carisma para convencer a otros usando tu conocimiento cient&iacute;fico. ¡Usa la Ciencia para piratear una computadora, inventar drogas y resolver tus problemas gracias a la ciencia!</p>"		},
+			"description": "<p>La habilidad Ciencia cubre todo el conocimiento teórico y práctico, pero en Wastelands se usa principalmente para codificar computadoras, programar robots y preparar drogas.</p>\n<p >Su atributo S.P.E.C.I.A.L. predeterminado es Inteligencia, pero puedes usar la Percepción para estudiar un sujeto de prueba o el Carisma para convencer a otros usando tu conocimiento científico. ¡Usa la Ciencia para piratear una computadora, inventar drogas y resolver tus problemas gracias a la ciencia!</p>"		},
 		{
 			"id": "Small Guns",
 			"name": "Armas Pequeñas",
 			"img": "modules/fallout-es/asset/Small-Guns.png",
-			"description": "<p>La habilidad Armas pequeñas mide tu precisi&oacute;n con armas de un solo disparo, pistolas autom&aacute;ticas, rifles y escopetas, as&iacute; como tu conocimiento pr&aacute;ctico de ellas.</p>\n< p>Su valor predeterminado S.P.E.C.I.A.L. El atributo es Agilidad, pero puedes usar Carisma para mantener a alguien a raya con tu arma o Resistencia para mantener tu arma apuntando a tu objetivo. Usa armas pequeñas para realizar un ataque a distancia con una pistola, un rifle o una escopeta.</p>"		},
+			"description": "<p>La habilidad Armas pequeñas mide tu precisión con armas de un solo disparo, pistolas automáticas, rifles y escopetas, así como tu conocimiento práctico de ellas.</p>\n< p>Su valor predeterminado S.P.E.C.I.A.L. El atributo es Agilidad, pero puedes usar Carisma para mantener a alguien a raya con tu arma o Resistencia para mantener tu arma apuntando a tu objetivo. Usa armas pequeñas para realizar un ataque a distancia con una pistola, un rifle o una escopeta.</p>"		},
 		{
 			"id": "Sneak",
 			"name": "Sigilo",
 			"img": "modules/fallout-es/asset/Sneak.png",
-			"description": "<p>La habilidad Sigilo cubre el movimiento sigiloso y cualquier intento de evitar ser notado cuando realizas una acci&oacute;n f&iacute;sica.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Agilidad, pero puedes usar Percepci&oacute;n para Detecta enemigos en una emboscada o usa Inteligencia para explorar un edificio. Usa el sigilo para moverte en silencio o permanecer oculto.</p>"		},
+			"description": "<p>La habilidad Sigilo cubre el movimiento sigiloso y cualquier intento de evitar ser notado cuando realizas una acción física.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Agilidad, pero puedes usar Percepción para Detecta enemigos en una emboscada o usa Inteligencia para explorar un edificio. Usa el sigilo para moverte en silencio o permanecer oculto.</p>"		},
 		{
 			"id": "Speech",
-			"name": "Conversaci&oacute;n",
+			"name": "Conversación",
 			"img": "modules/fallout-es/asset/Speech.png",
-			"description": "<p>La habilidad de Habla cubre las t&eacute;cnicas que has aprendido para comunicarte con otros, convencer a tus interlocutores con argumentos s&oacute;lidos o mentirles sin que se den cuenta.</p>\n< p>Su atributo S.P.E.C.I.A.L. predeterminado es Carisma, pero puedes usar la Inteligencia para escribir un discurso o la Percepci&oacute;n para determinar qu&eacute; tan probable es que tu paloma crea tu mentira. Usa el Habla para convencer a otros de tus argumentos, inspirar a tus interlocutores o intentar engañarlos de manera convincente.</p> "		},
+			"description": "<p>La habilidad de Habla cubre las técnicas que has aprendido para comunicarte con otros, convencer a tus interlocutores con argumentos sólidos o mentirles sin que se den cuenta.</p>\n< p>Su atributo S.P.E.C.I.A.L. predeterminado es Carisma, pero puedes usar la Inteligencia para escribir un discurso o la Percepción para determinar qué tan probable es que tu paloma crea tu mentira. Usa el Habla para convencer a otros de tus argumentos, inspirar a tus interlocutores o intentar engañarlos de manera convincente.</p> "		},
 		{
 			"id": "Survival",
 			"name": "Supervivencia",
 			"img": "modules/fallout-es/asset/Survival.png",
-			"description": "<p>La habilidad Supervivencia cubre todo tipo de habilidades &uacute;tiles en la naturaleza, como cazar, recolectar, pescar, construir refugios improvisados ​​y encender incendios.</p >\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Resistencia , pero puedes usar Percepci&oacute;n para determinar cu&aacute;nto tiempo te queda antes del anochecer o Carisma para encantar a los animales y poner a prueba tu resistencia a la desnutrici&oacute;n o la deshidrataci&oacute;n.</p>"		},
+			"description": "<p>La habilidad Supervivencia cubre todo tipo de habilidades útiles en la naturaleza, como cazar, recolectar, pescar, construir refugios improvisados ​​y encender incendios.</p >\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Resistencia , pero puedes usar Percepción para determinar cuánto tiempo te queda antes del anochecer o Carisma para encantar a los animales y poner a prueba tu resistencia a la desnutrición o la deshidratación.</p>"		},
 		{
 			"id": "Throwing",
 			"name": "Arrojar",
 			"img": "modules/fallout-es/asset/Throwing.png",
-			"description": "<p>La habilidad Proyectiles determina tu capacidad para realizar ataques exitosos con armas arrojadizas como jabalinas, cuchillos o armas improvisadas.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Agilidad, pero puedes usa Fuerza en el caso de objetos pesados, o Percepci&oacute;n para medir la distancia al objetivo. Usa Proyectiles para realizar un ataque de lanzamiento usando armas espec&iacute;ficas.</p> "		},
+			"description": "<p>La habilidad Proyectiles determina tu capacidad para realizar ataques exitosos con armas arrojadizas como jabalinas, cuchillos o armas improvisadas.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Agilidad, pero puedes usa Fuerza en el caso de objetos pesados, o Percepción para medir la distancia al objetivo. Usa Proyectiles para realizar un ataque de lanzamiento usando armas específicas.</p> "		},
 		{
 			"id": "Unarmed",
 			"name": "Desarmado",
 			"img": "modules/fallout-es/asset/Unarmed.png",
-			"description": "<p>La habilidad Desarmado mide tu habilidad para luchar con los puños.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Fuerza, pero puedes usar Agilidad o Carisma para amenazar o intimidar a otros. Usa Desarmado para atacar cuando est&eacute;s desarmado.</p>"		}
+			"description": "<p>La habilidad Desarmado mide tu habilidad para luchar con los puños.</p>\n<p>Su atributo S.P.E.C.I.A.L. predeterminado es Fuerza, pero puedes usar Agilidad o Carisma para amenazar o intimidar a otros. Usa Desarmado para atacar cuando estés desarmado.</p>"		}
 	]
 }
