@@ -2,7 +2,7 @@
   "id": "fallout-es",
   "title": "Traducción Fallout Español - Fallout Spanish Translation",
   "description": "Modulo de traduccion al español de la version Fallout 2d20 de HappySteve para Foundry VTT <br /> Spanish translation module for the Fallout 2d20 of HappySteve on Foundry VTT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "LICENSE",
   "compatibility": {
     "minimum": "11",
@@ -47,5 +47,5 @@
   ],
   "url": "https://github.com/Semajox/FoundryVTT-fallout-ES",
   "manifest": "https://raw.githubusercontent.com/Semajox/FoundryVTT-fallout-ES/main/module.json",
-  "download": "https://github.com/Semajox/FoundryVTT-fallout-ES/releases/download/v1.0.0/FoundryVTT-fallout-ES-1.0.0.zip"
+  "download": "https://github.com/Semajox/FoundryVTT-fallout-ES/releases/download/v1.0.1/FoundryVTT-fallout-ES.zip"
 }
